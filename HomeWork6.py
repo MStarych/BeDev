@@ -35,7 +35,9 @@ sentences = [
     {"text": "We're not gonna take it. \n Oh no, we ain't gonna take it \nWe're not gonna take it anymore",
      "level": 1},
     {"text": "I learned very early the difference between knowing the name of something and knowing something.",
-     "level": 2}
+     "level": 2},
+    {"text": "Air activated. Natural heat for up to 8 hours",
+     "level": 1}
 ]
 
 # 3. Сообщение с сервера, где указано от юзера с каким ID прилетел запрос и какое слово он ищет
